@@ -45,3 +45,4 @@ dpkg --configure -a
 If the issue persists after performing the above steps, it's a good idea to restart your system to ensure that any lingering processes or lock files are cleared.
 
 After following these steps, the "Waiting for the cache lock" issue should be resolved, and you should be able to use the package management system without any problems.
+added a new line for testing
